@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37697584078",
+    "project_id": "careless-coders",
+    "storage_bucket": "careless-coders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37697584078:android:ba488e3aed1f350c9cc99f",
+        "android_client_info": {
+          "package_name": "com.example.carelesscoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37697584078-kpqmge36v6onmih5qcc090sasca4k7gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-1mLxkVM1_5T3cjNMtBT76HYf0j80Op8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37697584078-kpqmge36v6onmih5qcc090sasca4k7gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
