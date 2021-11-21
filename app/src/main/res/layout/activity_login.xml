@@ -60,11 +60,18 @@
     <TextView
         android:id="@+id/recoverId"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:textAlignment="center"
-        android:text="Forgot Password"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/loginBtn"
-        android:textColor="@color/black"/>
+        android:text="Forgot Password"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/recoverId"
+        android:id="@+id/googleBtn"/>
 
     <TextView
         android:id="@+id/notHaveId"
