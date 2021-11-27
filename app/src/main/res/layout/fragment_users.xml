@@ -5,11 +5,11 @@
     android:layout_height="match_parent"
     tools:context=".UsersFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:textAlignment="center"
-        android:text="Careless Coders" />
+        android:id="@+id/users_recycle"
+        tools:listitem="@layout/row_users"/>
 
 </FrameLayout>
