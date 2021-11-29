@@ -12,5 +12,9 @@
         android:id="@+id/nav_users"
         android:icon="@drawable/ic_users"
         android:title="Careless Coders" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="Chats" />
 
 </menu>

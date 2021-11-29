@@ -1,4 +1,4 @@
-package com.example.carelesscoders;
+package com.example.carelesscoders.models;
 
 public class ModelUser {
     String name, email, search, phone, image, cover, uid;
